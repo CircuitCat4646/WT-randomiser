@@ -1,0 +1,15 @@
+name,type,subtype,nation,br,rank,premium
+J35D,air,fighter,swe,10.0,7,FALSE
+F/A-18C Late,air,fighter,usa,14.0,8,FALSE
+KW II 754 (r),ground,heavy,ger,3.7,3,TRUE
+Tiger II,ground,heavy,ger,6.7,4,FALSE
+L3/33 CC,ground,light,ita,1.0,1,FALSE
+J21A-1,air,fighter,swe,4.3,4,FALSE
+Pz 35(t),ground,light,ger,1.0,1,FALSE
+Sd.Kfz.234/2,ground,light,ger,3.7,2,FALSE
+Sherman III/IV,ground,medium,swe,3.7,3,TRUE
+JA37C,air,fighter,swe,11.3,7,FALSE
+MiG-25PD,air,fighter,ussr,11.0,7,FALSE
+VK 3002 (M),ground,medium,ger,5.0,3,FALSE
+T54E2,ground,medium,usa,7.7,5,TRUE
+CV 90105,ground,light,swe,10.3,8,TRUE
